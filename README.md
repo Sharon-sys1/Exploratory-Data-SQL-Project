@@ -1,10 +1,10 @@
 # Layoffs Data Analysis Project (SQL + Excel)
 
-## 📋 Project Overview
+## Project Overview
 
 This project showcases an exploratory data analysis (EDA) conducted on a dataset of company layoffs using SQL. The dataset was examined to uncover trends across industries, companies, and countries, with a focus on total layoffs. The project highlights real-world data insights relevant to workforce dynamics and economic changes over time.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyse layoffs by company, industry, and country
 
@@ -14,7 +14,7 @@ This project showcases an exploratory data analysis (EDA) conducted on a dataset
 
 - Practice and demonstrate SQL querying skills
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - SQL Server
 
@@ -22,7 +22,7 @@ This project showcases an exploratory data analysis (EDA) conducted on a dataset
 
 - SQL: aggregate functions, filtering, grouping, ordering
 
-## 📊 Key Analyses Performed
+## Key Analyses Performed
 
 - Initial Exploration
 
@@ -52,7 +52,7 @@ This project showcases an exploratory data analysis (EDA) conducted on a dataset
 
 - Grouped data by country to understand regional differences
 
-## 📈 Insights Summary
+## Insights Summary
 
 - The most affected industries included consumer and transportation sectors.
 
@@ -62,7 +62,7 @@ This project showcases an exploratory data analysis (EDA) conducted on a dataset
 
 - Countries with large tech and startup sectors saw higher overall layoffs.
 
-## 📎 What I Learned
+## What I Learned
 
 - Improved my ability to write complex SQL queries
 
